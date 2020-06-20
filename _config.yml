@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Root"
 title_separator          : "-"
 name                     : &name "Souradeep Chakraborty"
 description              : &description "Undergraduate, BITS Pilani, Goa Campus"
