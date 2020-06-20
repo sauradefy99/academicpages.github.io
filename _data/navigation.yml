@@ -9,11 +9,8 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Mentorship initiatives"
-    url: /initiatives/    
-
-  - title: "Leadership"
-    url: /leadership/    
+  - title: "Mentorship activities"
+    url: /initiatives/        
     
   - title: "CV"
     url: /cv/
