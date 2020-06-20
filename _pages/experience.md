@@ -18,7 +18,7 @@ These are a few recent highlighted experiences. For more details, check out my [
   
   **RAFA AI, Palo Alto, California - Remote**
   * Position: Quant Research and Development
-  * Impact: Ongoing, working in an end-to-end startup framework, directly responsible for pushing important deep learning and quantitative product releases on www.rafa.ai.
+  * Impact: Ongoing, working in an end-to-end startup framework, directly responsible for pushing important deep learning and quantitative product releases on [www.rafa.ai](www.rafa.ai).
   * Duration: May 1, 2020 - current
   * Mentors: [Abhinav Sinha](https://www.linkedin.com/in/abhi18/), [Siddharth Raisoni](https://www.linkedin.com/in/siddharthraisoni/)
   * Links: [Offer Letter]()
