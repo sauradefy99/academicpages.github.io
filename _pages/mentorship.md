@@ -5,6 +5,12 @@ permalink: /mentorship/
 author_profile: true
 ---
 
+During my undergraduation I have taken various initiatives and leadership roles to mentor like-minded individuals.
+
+<img src="https://github.com/sauradefy99/sauradefy99.github.io/blob/master/images/lect.jpg" width="300">
+
+The following are brief introductions to such activities.
+
 * **Vice President and Quant Head, Wall Street Club, BITS Goa**
   * Duration: October 2017 - April 2020
   * Responsibilties: Leading and mentoring a group of over 100+ juniors to explore and experiment with the field of finance, while being equipped with the technical/quantitative skills of an engineer. Together, the senior members of the club, also manage a portfolio, which had generated an alpha of 6.81% in the last financial year.
