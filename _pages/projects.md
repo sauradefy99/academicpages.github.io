@@ -10,7 +10,7 @@ author_profile: true
 * **Decentralized market making using Reinforcement Learning**
   * Duration: August 2019 - December 2019
   * Affiliation: [Equilibrium](https://equilibrium.co/)
-  * Description: Successfully implemented pipe-lines and cleaned raw time-series data for feature generation (for eg, [volume clocks] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2034858) on ETH/BTC tick data) to facilitate development of crypto-currency trading framework on decentralized exchanges and market making using deep reinforcement learning.
+  * Description: Successfully implemented pipe-lines and cleaned raw time-series data for feature generation (for eg, [volume clocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2034858) on ETH/BTC tick data) to facilitate development of crypto-currency trading framework on decentralized exchanges and market making using deep reinforcement learning.
   * Links: [Code](https://github.com/sauradefy99/EQLabs-QuantDeepRL/) 
 
 
