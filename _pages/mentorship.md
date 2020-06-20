@@ -8,7 +8,7 @@ author_profile: true
 * **Vice President and Quant Head, Wall Street Club, BITS Goa**
   * Duration: October 2017 - April 2020
   * Responsibilties: Leading and mentoring a group of over 100+ juniors to explore and experiment with the field of finance, while being equipped with the technical/quantitative skills of an engineer. Together, the senior members of the club, also manage a portfolio, which had generated an alpha of 6.81% in the last financial year.
-  * Links: [Facebook] (https://www.facebook.com/wsc.bitsgoa), [Blog](https://medium.com/the-new-daily)
+  * Links: [Facebook](https://www.facebook.com/wsc.bitsgoa), [Blog](https://medium.com/the-new-daily)
 
 * **Primary Instructor, Introduction to Quantitative Finance**
   * Duration: July 2019 - December 2019
