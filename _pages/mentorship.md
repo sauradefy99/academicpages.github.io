@@ -7,7 +7,7 @@ author_profile: true
 
 During my undergraduation I have taken various initiatives and leadership roles to mentor like-minded individuals.
 
-<img src="https://github.com/sauradefy99/sauradefy99.github.io/blob/master/images/lect.jpg" width="300">
+<img src="https://github.com/sauradefy99/sauradefy99.github.io/blob/master/images/lect.jpg" width="300" />
 
 The following are brief introductions to such activities.
 
