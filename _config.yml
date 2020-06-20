@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Root"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Souradeep Chakraborty"
 description              : &description "Undergraduate, BITS Pilani, Goa Campus"
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : 
   email            : "f20170170@goa.bits-pilani.ac.in"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Souradeep_Chakraborty5"
   uri              :
   bitbucket        :
   codepen          :
