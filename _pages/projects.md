@@ -17,7 +17,7 @@ author_profile: true
 * **Optimal area coverage using a swarm of robots in non-convex environments**
   * Duration: May 2019 - August 2019
   * Affiliation: [Dept. of Atomic Energy, Variable Energy Cyclotron Centre, Kolkata](https://www.vecc.gov.in/)
-  * Description: Worked at the intersection of deep reinforcement learning and swarm robotics. Studied and implemented various traditional approaches including Voronoi partitions, Lloyd’s algorithm, etc in a WeBots environment with e-Puck swarms using controllers built on Python and C. Successfully developed a decentralized algorithm leveraging concepts from these approaches coupled with a multi-agent deep reinforcement learning scheme for enabling the swarm to jointly learn to cover a known non-convex area.
+  * Description: Worked at the intersection of control logic and swarm robotics. Studied and implemented various traditional approaches including Voronoi partitions, Lloyd’s algorithm, etc in a WeBots environment with e-Puck swarms using controllers built on Python and C. Successfully developed a decentralized algorithm leveraging concepts from these approaches coupled with a multi-agent scheme for enabling the swarm to jointly learn to cover a known non-convex area.
   * Links: [Report](https://docs.google.com/document/d/1_Onc16K-Vep659-4A9nGVb65Stzt4h_K7SXkq-S-8cc/edit?usp=sharing)
   
   
