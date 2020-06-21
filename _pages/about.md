@@ -12,4 +12,4 @@ Hi! I'm Souradeep Chakraborty, named Saura by friends and colleagues, a senior y
 
 
 
-<img src = "https://raw.githubusercontent.com/sauradefy99/sauradefy99.github.io/master/images/conf.jpg" width="400" />
+<img align="centre" src = "https://raw.githubusercontent.com/sauradefy99/sauradefy99.github.io/master/images/conf.jpg" width="400" />
