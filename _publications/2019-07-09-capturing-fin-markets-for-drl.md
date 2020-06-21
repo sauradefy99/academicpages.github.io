@@ -8,9 +8,9 @@ excerpt: 'In this paper we explore the usage of deep reinforcement learning algo
 date: 2019-07-09
 venue: '9th India Finance Conference, IIM-Ahmedabad'
 
-citation: '@inproceedings{chakraborty2019,
+citation: '@misc{chakraborty2019capturing,
     title={Capturing Financial markets to apply Deep Reinforcement Learning},
-    author=**{Souradeep Chakraborty}**,
+    author={Souradeep Chakraborty},
     year={2019},
     eprint={1907.04373},
     archivePrefix={arXiv},
