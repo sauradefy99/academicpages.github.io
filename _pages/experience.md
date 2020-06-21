@@ -11,7 +11,7 @@ These are a few recent highlighted experiences. For more details, check out my [
 
 **National Stock Exchange, Mumbai, India**
   * Position: Quantitative Finance Summer Intern
-  * Impact: Closely worked with the Fixed Income Analytics team of [NSE] (https://www.linkedin.com/company/national-stock-exchange-of-india-limited/) to develop an attribution system directly competing with industry solutions, implemented new frameworks and a variety of attribution models for fixed income markets specifically calibrated on Indian sovereign and corporate bond data, employed machine learning for modeling the yield curve in python and pipelined output for excel.
+  * Impact: Closely worked with the Fixed Income Analytics team of [NSE](https://www.linkedin.com/company/national-stock-exchange-of-india-limited/) to develop an attribution system directly competing with industry solutions, implemented new frameworks and a variety of attribution models for fixed income markets specifically calibrated on Indian sovereign and corporate bond data, employed machine learning for modeling the yield curve in python and pipelined output for excel.
   * Duration: 4 months (Apr-Aug 2020)
   * Mentors: [Aman Singhania](https://www.linkedin.com/in/aman-singhania-4a3b8714/), [Mukesh Agarwal](https://www.linkedin.com/in/mukesh-agarwal-7933491/)
   * Links: [Offer Letter](https://drive.google.com/file/d/1YckhP6PHDYB_KooWtr-i7113feXAX0uN/view?usp=sharing)
