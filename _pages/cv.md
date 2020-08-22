@@ -10,4 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-My CV can be viewed here: [[Link]](https://drive.google.com/file/d/1_wlFMkG5lhm247GJ62r_4qe0och_yV36/view?usp=sharing).
+CV: [[Link]](https://drive.google.com/file/d/1Gc9ho2lNkacgx7NjVOkd-7MKm0xFztUx/view?usp=sharing).
+
+One-page resume: [[Link]](https://drive.google.com/file/d/1CBiY_g59Rw6RxuT0sf5O1Wpaf7Bc9lYW/view?usp=sharing).
